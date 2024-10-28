@@ -106,4 +106,4 @@ def analyze_text1(filename):
     print(f"Percentage of words longer than average length: {percent_longer_than_avg:.2f}%")
 
 # Run the analysis with a sample text file
-analyze_text1('sample1.txt')
+analyze_text1('sample(lab2).txt')
