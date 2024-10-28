@@ -1,0 +1,7 @@
+input length
+input width
+Arearea=length*width
+output "Area of the rectangle is", Area
+
+   
+
